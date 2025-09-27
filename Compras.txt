@@ -1,0 +1,3 @@
+1212 1212,Jose Perez,123456,2,sofa,efectivo
+1313 1313,Ana,123457,1,mesa grande,tarjeta
+1414 1414,Andres,123458,12,sillas pequenas,efectivo

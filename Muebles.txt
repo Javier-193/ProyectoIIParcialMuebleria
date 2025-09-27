@@ -1,0 +1,3 @@
+0112--mesa mediana--425.0--madera--mesa
+0113--sofa grande--600.0--algodon--sofa
+0114--silla peque�a--70.0--plastico--silla
